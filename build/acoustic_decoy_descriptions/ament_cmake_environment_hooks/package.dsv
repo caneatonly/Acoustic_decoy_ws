@@ -1,0 +1,4 @@
+source;share/acoustic_decoy_descriptions/local_setup.bash
+source;share/acoustic_decoy_descriptions/local_setup.dsv
+source;share/acoustic_decoy_descriptions/local_setup.sh
+source;share/acoustic_decoy_descriptions/local_setup.zsh

@@ -1,0 +1,23 @@
+-- Install configuration: ""
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/launch
+-- Installing: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/launch/rrbot_setup.launch.py
+-- Installing: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/launch/diff_drive.launch.py
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/config
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/config/ros_gz_example_bridge.yaml
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/config/diff_drive.rviz
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/config/rrbot.rviz
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/ament_index/resource_index/package_run_dependencies/acoustic_decoy_starts
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/ament_index/resource_index/parent_prefix_path/acoustic_decoy_starts
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/environment/ament_prefix_path.sh
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/environment/path.sh
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/environment/path.dsv
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/local_setup.bash
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/local_setup.sh
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/local_setup.zsh
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/local_setup.dsv
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/package.dsv
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/ament_index/resource_index/packages/acoustic_decoy_starts
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/cmake/acoustic_decoy_startsConfig.cmake
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/cmake/acoustic_decoy_startsConfig-version.cmake
+-- Up-to-date: /home/zyshin3/gazebo_maritime/Acoustic_decoy_ws/install/acoustic_decoy_starts/share/acoustic_decoy_starts/package.xml

@@ -1,0 +1,2 @@
+prepend-non-duplicate;GZ_SIM_RESOURCE_PATH;share/acoustic_decoy_gazebo/worlds
+prepend-non-duplicate;GZ_SIM_SYSTEM_PLUGIN_PATH;lib/acoustic_decoy_gazebo/

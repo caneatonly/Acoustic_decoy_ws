@@ -1,0 +1,8 @@
+source;share/acoustic_decoy_controls/hook/cmake_prefix_path.ps1
+source;share/acoustic_decoy_controls/hook/cmake_prefix_path.dsv
+source;share/acoustic_decoy_controls/hook/cmake_prefix_path.sh
+source;share/acoustic_decoy_controls/local_setup.bash
+source;share/acoustic_decoy_controls/local_setup.dsv
+source;share/acoustic_decoy_controls/local_setup.ps1
+source;share/acoustic_decoy_controls/local_setup.sh
+source;share/acoustic_decoy_controls/local_setup.zsh
